@@ -5,13 +5,13 @@ The Hospitality Supplier Directory connects hospitality businesses with trusted 
 **Overview:**
 The Hospitality Supplier Directory is a dedicated online platform designed to connect hospitality businesses with trusted suppliers across the industry. Our user-friendly directory simplifies the procurement process, making it easier for hotels, restaurants, and other hospitality establishments to find reliable products and services.
 
-![Uploading Artboard 1 (12).png…]()
+![Artboard 1 (12)](https://github.com/user-attachments/assets/a96d1d88-ffa4-44cd-a855-7217b455b8cb)
 
 ## 🛠 Project Overview
 
 The *Hospitality Supplier Directory* website is built on the *Brilliant Directory* platform, providing a comprehensive resource for the hospitality sector. Users can efficiently locate and evaluate suppliers, enhancing their procurement processes.
 
-![Uploading Artboard 5 (7).png…]()
+![Artboard 5 (7)](https://github.com/user-attachments/assets/57cc3f50-3bab-422b-b0d8-f27b2f175e80)
 
 ## 🚀 Key Functionalities Developed
 
